@@ -75,12 +75,12 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Neural Style Transfer</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Deep Dream</br>
 </p>
-<small><i><p><b><sup>*</sup></b>&nbsp;One may not find all the projects on my GitHub because I’m working on converting them from </br>IPython Notebook to modular form, please have patience.</p></i></small>
+<small><i><p><b><sup>*</sup></b>&nbsp;One may not find all the projects on my GitHub because I’m working on converting them from IPython Notebook to modular form, please have patience.</p></i></small>
 
 </br>
 
 <h3><img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" height="25px">&nbsp;Open-source and GitHub stats</h3>
-<p>Whenever I find time I love to contribute to open-source <a href="https://github.com/tensorflow/datasets" alt="TFDS">@tensorflow/dataset</a> and <a href="https://github.com/scikit-learn/scikit-learn" alt="scikit-learn">@sklearn</a>) as it not not only means </br>
+<p>Whenever I find time I love to contribute to open-source <a href="https://github.com/tensorflow/datasets" alt="TFDS">@tensorflow/dataset</a> and <a href="https://github.com/scikit-learn/scikit-learn" alt="scikit-learn">@sklearn</a>) as it not not only means
 helping the community but also help develop my programming skills and I learn a lot about the internal working of that library.</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh020&show_icons=true&locale=en&layout=compact" alt="harsh020" width="370" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh020&show_icons=true&locale=en" alt="harsh020" width="380" /></p>
