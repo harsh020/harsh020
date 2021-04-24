@@ -17,8 +17,8 @@
     I am currently pursuing my undergraduate in Information Technology and am in my sophomore year. I love to code <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px">, build stuff and learn to program efficiently <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">. Python’s <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="15px"> the jam!</br> 
     During my coursework. I’ve developed a passion for Machine Learning <img src="https://www.flaticon.com/svg/vstatic/svg/2103/2103787.svg?token=exp=1617434895~hmac=59573d479164e08b56f194adb846ef6b" height="15px"> and am intrigued by its research prospects. I’m extremely interested in pursuing research in the same. I genuinely believe that the application of ML is huge, and it can help man-kind a lot.
 </p>
- 
-<br>
+
+<!--<br>-->
 
 <p>
 <h3><b><img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" height="25px">&nbsp;Random stuff about me</b></h3> 
@@ -30,7 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I appreciate and am thankful for **data, transfer learning & TPUs (Kaggle's TPU 😜)**.</br>
 </p>
 
-<br>
+<!--<br>-->
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
@@ -64,7 +64,7 @@
 </tbody>
 </table>
  
- </br>
+<!--</br>-->
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1534260614/4501/xcode_project.png?1534260614" height="25px">&nbsp;Projects<sup>*</sup></h3>
 <p>
@@ -77,7 +77,7 @@
 </p>
 <small><i><p><b><sup>*</sup></b>&nbsp;One may not find all the projects on my GitHub because I’m working on converting them from IPython Notebook to modular form, please have patience.</p></i></small>
 
-</br>
+<!--</br>-->
 
 <h3><img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" height="25px">&nbsp;Open-source and GitHub stats</h3>
 <p>Whenever I find time I love to contribute to open-source <a href="https://github.com/tensorflow/datasets" alt="TFDS">@tensorflow/dataset</a> and <a href="https://github.com/scikit-learn/scikit-learn" alt="scikit-learn">@sklearn</a>) as it not not only means
@@ -85,7 +85,7 @@ helping the community but also help develop my programming skills and I learn a 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh020&show_icons=true&locale=en&layout=compact" alt="harsh020" width="370" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh020&show_icons=true&locale=en" alt="harsh020" width="380" /></p>
 
-</br>
+<!--</br>-->
 
 <h3>&copy;&nbsp;References</h3>
 <p>Image sources (see source code for exact link)</br>
