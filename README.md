@@ -68,8 +68,10 @@
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1534260614/4501/xcode_project.png?1534260614" height="25px">&nbsp;Projects<sup>*</sup></h3>
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Retina OCT image diagnosis (2021-Present)</br>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; IMDB Review (2021-Present)</br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Conduit Project (by realworld.io) (Present)</br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Notification System (2021)</br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Retina OCT image diagnosis (2021)</br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; IMDB Review (2021)</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Chest x-ray image diagnosis (2020-2021)</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Neural Machine Translation (Hi-En)</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; Neural Style Transfer</br>
