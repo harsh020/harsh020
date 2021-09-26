@@ -14,8 +14,8 @@
 </p>
 
 <p>
-    I am currently pursuing my undergraduate in Information Technology and am in my sophomore year. I love to code <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px">, build stuff and learn to program efficiently <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">. Python’s <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="15px"> the jam!</br> 
-    During my coursework. I’ve developed a passion for Machine Learning <img src="https://www.flaticon.com/svg/vstatic/svg/2103/2103787.svg?token=exp=1617434895~hmac=59573d479164e08b56f194adb846ef6b" height="15px"> and am intrigued by its research prospects. I’m extremely interested in pursuing research in the same. I genuinely believe that the application of ML is huge, and it can help man-kind a lot.
+    I am currently pursuing my undergraduate in Information Technology. I love to code <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px">, build stuff and learn to program efficiently <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">. Python’s <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="15px"> the jam!</br> 
+    During my coursework. I’ve developed a passion for Machine Learning <img src="https://www.flaticon.com/svg/vstatic/svg/2103/2103787.svg?token=exp=1617434895~hmac=59573d479164e08b56f194adb846ef6b" height="15px"> and am intrigued by its research prospects. During my coursework I have also developed a keen interest in developing scalable systems and am very interested in desining and coding them up.
 </p>
 
 <!--<br>-->
