@@ -7,7 +7,7 @@
 -->
 
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />, I'm Harsh Soni</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />, I'm <a href="https://harsh020.github.io" alt="Portfolio" target="_blank">Harsh Soni</a></h2>
 <p align="center">
 <a href = "mailto: soniharsh020@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" height="30" width="40" /></a>
