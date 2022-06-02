@@ -24,10 +24,9 @@
 <h3><b><img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" height="25" width="25" />&nbsp;Random stuff about me</b></h3> 
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;Pronouns: **He/His/Him**.</br>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m currently learning **Deep Learning**.</br>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m currently training **Deep convnet models**.</br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m currently developing good **Low-Level and High-level Design** skills.</br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m also learning **DevOps**.</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m currently honing my **Data Structures & Algorithms**.</br>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I appreciate and am thankful for **data, transfer learning & TPUs (Kaggle's TPU 😜)**.</br>
 </p>
 
 <!--<br>-->
