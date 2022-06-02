@@ -26,6 +26,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;Pronouns: **He/His/Him**.</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m currently developing good **Low-Level and High-level Design** skills.</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m also learning **DevOps**.</br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m eager to learn to build **system that scale**.</br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp;I’m currently honing my **Data Structures & Algorithms**.</br>
 </p>
 
