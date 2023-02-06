@@ -14,8 +14,7 @@
 </p>
 
 <p>
-    I am currently pursuing my undergraduate in Information Technology. I love to code <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />, build stuff and learn to program efficiently <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30" />. 
-    I am an interest-driven, tech agnostic person with a strong work ethic and programming ability. I have built projects in the fields of full-stack development and deep learning. Currently, I am working on developing good low-level design, high-level design, and DevOps skills.
+Hi there! I'm an aspiring software engineer who loves problem-solving, coding, and developing systems that scale. I love tinkering with applications and code bases, figuring out how they work, and fixing them. I am an interest-driven, tech agnostic person with a strong work ethic and programming ability. I also believe in writing fully documented code that is extensible, flexible, and maintainable. Currently, I am learning about microservice architecture and building scalable systems.
 </p>
 
 <!--<br>-->
