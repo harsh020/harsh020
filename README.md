@@ -87,9 +87,12 @@ helping the community but also help develop my programming skills and I learn a 
 
 <hr>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh020&show_icons=true&locale=en&layout=compact" alt="harsh020" width="370" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh020&show_icons=true&locale=en" alt="harsh020" width="380" /></p>
+-->
 
 <br />
 
@@ -106,11 +109,8 @@ helping the community but also help develop my programming skills and I learn a 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="15px">&nbsp;&nbsp; ABSphreak. URL: <a href="https://github.com/ABSphreak">ABSphreak</a></br>
 </p> -->
 
-<br>
 
-<!---
 <p align="left"><img src="https://komarev.com/ghpvc/?username=harsh020&label=Profile%20Views&color=0e75b6&style=flat" alt="harsh020" /> </p>
---->
 
 <!---
 harsh020/harsh020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
