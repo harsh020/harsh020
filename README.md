@@ -108,7 +108,9 @@ helping the community but also help develop my programming skills and I learn a 
 
 <br>
 
+<!---
 <p align="left"><img src="https://komarev.com/ghpvc/?username=harsh020&label=Profile%20Views&color=0e75b6&style=flat" alt="harsh020" /> </p>
+--->
 
 <!---
 harsh020/harsh020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
